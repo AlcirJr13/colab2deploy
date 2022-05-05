@@ -1,0 +1,25 @@
+{
+    "os": "Windows-10-10.0.22000-SP0",
+    "python": "3.8.13",
+    "heartbeatAt": "2022-05-03T18:32:28.224448",
+    "startedAt": "2022-05-03T18:32:25.828655",
+    "docker": null,
+    "cpu_count": 6,
+    "cuda": null,
+    "args": [
+        "source.api.main:app",
+        "--reload"
+    ],
+    "state": "running",
+    "program": "C:\\Users\\Alcir Jr\\anaconda3\\envs\\colab2deploy\\Scripts\\uvicorn-script.py",
+    "codePath": "..\\..\\anaconda3\\envs\\colab2deploy\\Scripts\\uvicorn-script.py",
+    "git": {
+        "remote": "https://github.com/AlcirJr13/colab2deploy.git",
+        "commit": "2bd7615edbc0257b036ecdf6fc0c7728e29eaa5a"
+    },
+    "email": "alcir_jr13@hotmail.com",
+    "root": "C:/Users/Alcir Jr/Aprendizagem de Maquina/colab2deploy",
+    "host": "AlcirJr",
+    "username": "Alcir Jr",
+    "executable": "C:\\Users\\Alcir Jr\\anaconda3\\envs\\colab2deploy\\python.exe"
+}
